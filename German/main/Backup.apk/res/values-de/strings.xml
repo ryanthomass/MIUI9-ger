@@ -169,11 +169,11 @@
   <string name="import_data_from_icloud">Daten aus der iCloud importieren</string>
   <string name="import_from_xiaomi_account_hint1">"1.\u0009Mi Talk herunterladen und anmelden.
     \u0009http://www.miliao.com
-    
+
     2.\u0009In die Mi Talk-Einstellungen wechseln und \"Kontakte im Mi Konto sichern\" wählen.</string>
   <string name="import_from_xiaomi_account_hint2">Falls Sicherung bereits vorhanden ist, weiter drücken</string>
   <string name="import_from_xiaomi_account_hint_title">Mi Talk verwenden, um Kontakte auf anderen Geräten wiederherzustellen</string>
-  <string name="import_tip_summary">Wegen Kompatibilitätsproblemen können Sie nur Kontakte und Fotos von iOS-Geräten übertragen. Stellen Sie sicher, dass Sie vor dem Start der Übertragung ein iCloud-Backup erstellen.</string>
+  <string name="import_tip_summary">Aus Kompatibilitätsgründen können Sie nur Teildaten von iOS-Geräten übertragen. Stellen Sie sicher, dass Sie ein iCloud-Backup erstellen, bevor Sie mit der Übertragung beginnen.</string>
   <string name="import_tip_title">Tipps:</string>
   <string name="loading_data">Lade Daten</string>
   <string name="local_app_name">Sicherungen</string>
