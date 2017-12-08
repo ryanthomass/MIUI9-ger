@@ -204,9 +204,9 @@
   <string name="confirm_enable_oem_unlock_title">OEM Entsperrung erlauben?</string>
   <string name="connected_via_passpoint">Verbunden über %1$s</string>
   <string name="connected_via_wfa">Verbunden über Wlan Assistenten</string>
-  <string name="convert_to_fbe_warning">"Datenpartitionen in dateibasierte Verschlüsselung konvertieren. 
-!!Warnung!! Alle Ihre Daten werden gelöscht. 
-Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig. 
+  <string name="convert_to_fbe_warning">"Datenpartitionen in dateibasierte Verschlüsselung konvertieren.
+!!Warnung!! Alle Ihre Daten werden gelöscht.
+Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
 \"Löschen und konvertieren…\" drücken, um fortzufahren."</string>
   <string name="convert_to_file_encryption">In Datei-Verschlüsselung umwandeln</string>
   <string name="convert_to_file_encryption_done">Datei bereits verschlüsselt</string>
@@ -379,7 +379,7 @@ Bitte Ladegerät benutzen."</string>
   <string name="no_weather_description">Wetterinfos erhalten</string>
   <string name="not_support_multi_window">Aktuelle App unterstützt den Multi-Window-Modus nicht</string>
   <string name="notification_header_title">Benachrichtigungen</string>
-  <string name="notification_hidden_text">Inhalt ausgeblendet</string>
+  <string name="notification_hidden_text">Sie haben eine neue Nachricht</string>
   <string name="notification_low_battery_action_btn">Einschalten</string>
   <string name="notification_low_battery_need_charge">Akku ist leer. Laden Sie Ihr Gerät auf.</string>
   <string name="notification_low_battery_open_save_mode">Akkusparmodus einschalten</string>
